@@ -1,0 +1,75 @@
+body {
+	background-color: #fec31d;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 20px;
+}
+h2 {
+	font-size: 32px;
+}
+a {
+	text-decoration: none;
+}
+nav {
+	background-color: #fec31d;
+	color: black;
+	font-size: 24px;
+	width: 100%;
+    text-align: center;
+}
+span {
+	font-style: italic;
+	font-weight: bold;
+}
+footer {
+	text-align: center;
+}
+#welcome {
+	border: 16px dotted black;
+	font-size: 64px;
+	margin-left: 25%;
+	margin-right: 25%;
+	text-align: center;
+}
+#subwelcome {
+	font-size: 24px;
+	margin-left: 20%;
+	margin-right: 20%;
+	text-align: center;
+}
+#icon {
+	height: 64px;
+	width: 64px;
+}
+#email {
+	color: #000;
+	text-decoration: none;
+}
+#email:hover {
+	color: #000;
+	text-decoration: underline;
+}
+#link {
+	color: #000;
+	text-decoration: none;
+}
+#link:hover {
+	text-decoration: underline;
+}
+#innovative {
+	border: 2px solid black;
+	border-collapse: collapse;
+	border-radius: 4px;
+	padding: 5px 5px 5px 5px;
+}
+#sponsor {
+	padding-right: 50px;
+	text-align: center;
+}
+#answer {
+	font-style: italic;
+	padding-bottom: 5px;
+}
+#question {
+	font-weight: bold;
+	padding-bottom: 5px;
+}
